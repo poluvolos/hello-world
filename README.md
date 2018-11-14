@@ -11,6 +11,6 @@ Weird stuff
       -three
       1. some
       
-[googel] (google.com)
+[googel] (http://google.com)
 
 ska 'coocoo' ska
